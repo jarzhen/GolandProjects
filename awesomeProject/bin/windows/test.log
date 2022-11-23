@@ -1,0 +1,2 @@
+2022-11-15 10:55:16.531 [main][] INFO cn.cncc.datasource.autoconfigure.MultiDataSourceAutoConfiguration - [registryBean, 153] - 针对DTA1-TCBSDataSource分组，生成Datasource:DTA1-TCBSJdbcTemplate，JdbcTemplate:DTA1-TCBSTXManager, TransactionManager:{}
+2022-11-15 10:55:17.249 [main][] INFO cn.cncc.datasource.autoconfigure.MultiDataSourceAutoConfiguration - [registryBean, 170] - 针对DTA1-TCBS分组， 将扫描cn.cfit.tcbs.userinterface.tcbs.dao目录下的接口文件，扫描mybatis/tcbs目录下的xml文件，扫描cn.cfit.tcbs.userinterface.tcbs.entity下的实体类文件
