@@ -1,5 +1,13 @@
 # log日志转csv文件程序说明
+### 程序包下载
 
+linux
+
+https://github.com/jarzhen/GolandProjects/blob/master/awesomeProject/bin/linux/log2csv_linux.zip
+
+windows
+
+https://github.com/jarzhen/GolandProjects/blob/master/awesomeProject/bin/windows/log2csv_windows.zip
 ### 命令参数说明
 
 参数1:1og日志文件名(相对路径)
