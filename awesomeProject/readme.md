@@ -14,7 +14,7 @@ d:date,日期
 
 n:mumber,数字
 
-j:json, json
+j:json, json或sql
 
 s:string,字符
 
