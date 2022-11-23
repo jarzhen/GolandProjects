@@ -6,7 +6,7 @@
 :: csv单元格值类型的取值范围如下:
 :: d:date,日期
 :: n:mumber,数字
-:: j:json, json
+:: j:json, 包含json或sql
 :: s:string,字符
 :: 说明:该程序没有帮助命令选项，有关命令说明只在readme.md和脚本注释中列出
 :: 命令举例
